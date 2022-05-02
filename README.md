@@ -1,0 +1,5 @@
+- Hi, I’m @duongtrandinh
+- 👀 I’m interested in C++, Python
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on social network
+- 📫 Contact me: duongtd@gmail.com. Thanks!
